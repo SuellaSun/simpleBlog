@@ -1,0 +1,18 @@
+[
+    {
+        "ID":1,
+        "NAME":"钱成",
+        "AGE":25,
+        "PHONE":13044086186,
+        "ADDRESS":"BEI JING"
+
+    },
+    {
+        "ID":2,
+        "NAME":"孙洋",
+        "AGE":24,
+        "PHONE":13044086186,
+        "ADDRESS":"NAN JING"
+
+    }
+]

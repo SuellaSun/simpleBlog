@@ -1,0 +1,21 @@
+{
+    "bloghead": "简易博客",
+    "blogitem":[
+        {
+            "blogtitle":"事件流",
+            "blogbody":"时间流。。。"
+        },
+        {
+            "blogtitle":"事件类型",
+            "blogbody":"时间流。。。"
+        },
+        {
+            "blogtitle":"事件对象",
+            "blogbody":"。。。"
+        },
+        {
+            "blogtitle":"事件委托",
+            "blogbody":"时间流。。。"
+        }
+    ]
+}
