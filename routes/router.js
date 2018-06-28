@@ -4,7 +4,7 @@ function route(handle,pathname){
     console.log("request route:"+pathname);
 
     if(typeof handle[pathname] === 'function'){
-        handle[pathname]();
+        handle[pathname](req,res);
     }else{
         console.log("No Request handler found for " +pathname);
     }
